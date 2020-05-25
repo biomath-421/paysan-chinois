@@ -67,7 +67,9 @@ background-size: cover;
 }
 header { 
 background-image: url("images/fond-header.png");
-margin: none;
+margin: 20px;
+margin-left: auto;
+margin-right: auto;
 border-radius: 15px;
 font-family: sans-serif;
 box-shadow: 1px 1px 25px #555;
