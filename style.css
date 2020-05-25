@@ -145,3 +145,8 @@ margin-right: 25px;
 figcaption{
 text-align: center;
 }
+form{
+    margin:20px;
+    margin-left: auto;
+    margin-right: auto;
+}
